@@ -1,0 +1,12 @@
+the main reason this smart contract work is that of balancing mappings
+we have the key (mapping) is every single address on this planet and its value
+In simple tokken transfer is we subtract from address and add it to to address
+====================
+Transfer from allows us to allow others to use our protocol
+it implements taking funds from users
+==================================
+WETH is an ethereum but in ERC20 tokken contract
+===================================
+Lending pool adress provider provides the address of lending pool
+===> Basically one address provides the other address to work with
+==================================
